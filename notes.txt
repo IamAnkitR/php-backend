@@ -1,0 +1,24 @@
+Php is a general-purpose programming language geared towards web development.
+
+1. Interpreted server-side language
+2. Can be written alongside HTML within <?php?> tags
+3. Often used with relational databases like MySQL
+
+
+
+// How it works :: 
+
+1. Browser sends a request to the server
+2. PHP code is processed
+3. Server sends HTML back to Browser
+
+
+// Setting up PHP environment  :: 
+
+PHP often work with LAMP(Linux, Apache, MySQL, PHP) stack. Tools such as MAMP and XAMPP are used to develop PHP applications in your local machine. 
+
+
+// Wordpress and Laravel
+
+1. Wordpress is a CMS(Content Management System) for creating websites that users can manage on thier own.
+2. Laravel is a full-featured web framework for creating applications and APIs of any size.
